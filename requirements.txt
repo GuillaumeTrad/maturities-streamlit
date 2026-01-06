@@ -1,7 +1,3 @@
 streamlit
 pandas
 pdfplumber
-
-streamlit
-pandas
-pdfplumber
